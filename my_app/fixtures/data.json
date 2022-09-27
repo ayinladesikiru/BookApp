@@ -1,0 +1,2202 @@
+[
+{
+    "model": "my_app.book",
+    "pk": 1,
+    "fields": {
+        "title": "State of Emergency",
+        "description": "felis eu sapien cursus vestibulum proin eu mi nulla ac enim in tempor turpis",
+        "date_published": "2021-11-08T14:21:54Z",
+        "isbn": "365394271-3",
+        "price": "21.03",
+        "genre": "ROMANCE",
+        "publisher": 1
+    }
+},
+{
+    "model": "my_app.book",
+    "pk": 2,
+    "fields": {
+        "title": "Confiance règne, La",
+        "description": "rhoncus aliquet pulvinar sed nisl nunc rhoncus dui vel sem sed sagittis nam congue risus semper porta volutpat quam",
+        "date_published": "2021-12-20T10:26:42Z",
+        "isbn": "685343128-6",
+        "price": "24.04",
+        "genre": "ROMANCE",
+        "publisher": 2
+    }
+},
+{
+    "model": "my_app.book",
+    "pk": 3,
+    "fields": {
+        "title": "Wristcutters: A Love Story",
+        "description": "felis ut at dolor quis odio consequat varius integer ac leo pellentesque ultrices mattis odio donec vitae nisi nam",
+        "date_published": "2021-11-12T16:22:36Z",
+        "isbn": "454053361-4",
+        "price": "12.70",
+        "genre": "COMEDY",
+        "publisher": 3
+    }
+},
+{
+    "model": "my_app.book",
+    "pk": 4,
+    "fields": {
+        "title": "Very Harold & Kumar 3D Christmas, A",
+        "description": "consequat ut nulla sed accumsan felis ut at dolor quis odio consequat varius",
+        "date_published": "2021-11-29T02:05:35Z",
+        "isbn": "078051860-8",
+        "price": "32.71",
+        "genre": "TRAGEDY",
+        "publisher": 4
+    }
+},
+{
+    "model": "my_app.book",
+    "pk": 5,
+    "fields": {
+        "title": "Goon",
+        "description": "dis parturient montes nascetur ridiculus mus etiam vel augue vestibulum rutrum rutrum neque aenean auctor gravida sem",
+        "date_published": "2021-10-24T04:55:25Z",
+        "isbn": "159394918-9",
+        "price": "60.89",
+        "genre": "TRAGEDY",
+        "publisher": 5
+    }
+},
+{
+    "model": "my_app.book",
+    "pk": 6,
+    "fields": {
+        "title": "The Things of Life",
+        "description": "aliquam quis turpis eget elit sodales scelerisque mauris sit amet eros suspendisse accumsan tortor quis turpis sed ante",
+        "date_published": "2021-10-25T05:51:35Z",
+        "isbn": "300911806-6",
+        "price": "29.53",
+        "genre": "FICTION",
+        "publisher": 6
+    }
+},
+{
+    "model": "my_app.book",
+    "pk": 7,
+    "fields": {
+        "title": "Power (Jew Süss)",
+        "description": "ac nibh fusce lacus purus aliquet at feugiat non pretium quis lectus suspendisse potenti in",
+        "date_published": "2021-10-21T02:56:36Z",
+        "isbn": "742817746-4",
+        "price": "55.07",
+        "genre": "ROMANCE",
+        "publisher": 7
+    }
+},
+{
+    "model": "my_app.book",
+    "pk": 8,
+    "fields": {
+        "title": "Coal Miner's Daughter",
+        "description": "semper porta volutpat quam pede lobortis ligula sit amet eleifend",
+        "date_published": "2022-01-20T14:04:26Z",
+        "isbn": "730750961-X",
+        "price": "98.90",
+        "genre": "TRAGEDY",
+        "publisher": 8
+    }
+},
+{
+    "model": "my_app.book",
+    "pk": 9,
+    "fields": {
+        "title": "Toast of New York, The",
+        "description": "luctus et ultrices posuere cubilia curae mauris viverra diam vitae quam suspendisse potenti nullam porttitor lacus at turpis donec posuere",
+        "date_published": "2021-12-23T20:38:34Z",
+        "isbn": "510656670-3",
+        "price": "97.62",
+        "genre": "ROMANCE",
+        "publisher": 9
+    }
+},
+{
+    "model": "my_app.book",
+    "pk": 10,
+    "fields": {
+        "title": "Indiana Jones and the Kingdom of the Crystal Skull",
+        "description": "nisl nunc nisl duis bibendum felis sed interdum venenatis turpis enim blandit mi in porttitor pede justo",
+        "date_published": "2022-05-08T20:26:46Z",
+        "isbn": "521809693-8",
+        "price": "35.66",
+        "genre": "NON_FICTION",
+        "publisher": 10
+    }
+},
+{
+    "model": "my_app.book",
+    "pk": 11,
+    "fields": {
+        "title": "Sex: The Annabel Chong Story",
+        "description": "sapien quis libero nullam sit amet turpis elementum ligula vehicula consequat morbi a ipsum integer a nibh in quis",
+        "date_published": "2022-09-24T02:07:26Z",
+        "isbn": "023860391-1",
+        "price": "66.79",
+        "genre": "NON_FICTION",
+        "publisher": 11
+    }
+},
+{
+    "model": "my_app.book",
+    "pk": 12,
+    "fields": {
+        "title": "Little Man Tate",
+        "description": "blandit lacinia erat vestibulum sed magna at nunc commodo placerat praesent blandit nam nulla integer pede justo lacinia eget",
+        "date_published": "2022-09-13T02:03:40Z",
+        "isbn": "351107321-9",
+        "price": "33.71",
+        "genre": "ROMANCE",
+        "publisher": 12
+    }
+},
+{
+    "model": "my_app.book",
+    "pk": 13,
+    "fields": {
+        "title": "Teenage Mutant Ninja Turtles",
+        "description": "a odio in hac habitasse platea dictumst maecenas ut massa quis augue luctus tincidunt",
+        "date_published": "2022-08-24T20:30:42Z",
+        "isbn": "551358906-0",
+        "price": "10.89",
+        "genre": "TRAGEDY",
+        "publisher": 13
+    }
+},
+{
+    "model": "my_app.book",
+    "pk": 14,
+    "fields": {
+        "title": "Sherlock Holmes in Pearl of Death (Pearl of Death, The)",
+        "description": "non interdum in ante vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere",
+        "date_published": "2022-06-11T09:39:26Z",
+        "isbn": "428426763-9",
+        "price": "74.19",
+        "genre": "ROMANCE",
+        "publisher": 14
+    }
+},
+{
+    "model": "my_app.book",
+    "pk": 15,
+    "fields": {
+        "title": "Ju-on: The Grudge 2",
+        "description": "faucibus orci luctus et ultrices posuere cubilia curae donec pharetra magna vestibulum aliquet ultrices erat tortor sollicitudin mi sit",
+        "date_published": "2021-11-15T21:44:36Z",
+        "isbn": "451747725-8",
+        "price": "18.59",
+        "genre": "NON_FICTION",
+        "publisher": 15
+    }
+},
+{
+    "model": "my_app.book",
+    "pk": 16,
+    "fields": {
+        "title": "Europa (Zentropa)",
+        "description": "blandit lacinia erat vestibulum sed magna at nunc commodo placerat praesent blandit nam",
+        "date_published": "2022-06-26T05:46:57Z",
+        "isbn": "872960479-6",
+        "price": "35.62",
+        "genre": "COMEDY",
+        "publisher": 16
+    }
+},
+{
+    "model": "my_app.book",
+    "pk": 17,
+    "fields": {
+        "title": "Number Seventeen (a.k.a. Number 17)",
+        "description": "non mi integer ac neque duis bibendum morbi non quam nec dui luctus rutrum nulla tellus in",
+        "date_published": "2022-09-11T04:55:10Z",
+        "isbn": "025739512-1",
+        "price": "16.48",
+        "genre": "FICTION",
+        "publisher": 17
+    }
+},
+{
+    "model": "my_app.book",
+    "pk": 18,
+    "fields": {
+        "title": "Caesar and Cleopatra",
+        "description": "tortor sollicitudin mi sit amet lobortis sapien sapien non mi",
+        "date_published": "2022-05-23T21:51:15Z",
+        "isbn": "861168291-2",
+        "price": "94.59",
+        "genre": "TRAGEDY",
+        "publisher": 18
+    }
+},
+{
+    "model": "my_app.book",
+    "pk": 19,
+    "fields": {
+        "title": "Waterloo",
+        "description": "lobortis sapien sapien non mi integer ac neque duis bibendum morbi",
+        "date_published": "2022-01-28T09:35:36Z",
+        "isbn": "946136570-5",
+        "price": "58.26",
+        "genre": "ROMANCE",
+        "publisher": 19
+    }
+},
+{
+    "model": "my_app.book",
+    "pk": 20,
+    "fields": {
+        "title": "The Legend of Mor'du",
+        "description": "lacus morbi sem mauris laoreet ut rhoncus aliquet pulvinar sed nisl nunc rhoncus dui vel sem sed sagittis",
+        "date_published": "2022-02-21T12:39:02Z",
+        "isbn": "765204663-7",
+        "price": "78.49",
+        "genre": "ROMANCE",
+        "publisher": 20
+    }
+},
+{
+    "model": "my_app.book",
+    "pk": 21,
+    "fields": {
+        "title": "Underneath",
+        "description": "congue vivamus metus arcu adipiscing molestie hendrerit at vulputate vitae nisl aenean lectus",
+        "date_published": "2022-08-23T04:09:14Z",
+        "isbn": "487206342-2",
+        "price": "96.43",
+        "genre": "NON_FICTION",
+        "publisher": 21
+    }
+},
+{
+    "model": "my_app.book",
+    "pk": 22,
+    "fields": {
+        "title": "Memento",
+        "description": "elementum eu interdum eu tincidunt in leo maecenas pulvinar lobortis est",
+        "date_published": "2022-09-19T01:04:54Z",
+        "isbn": "144051047-4",
+        "price": "14.20",
+        "genre": "ROMANCE",
+        "publisher": 22
+    }
+},
+{
+    "model": "my_app.book",
+    "pk": 23,
+    "fields": {
+        "title": "Investigation of a Citizen Above Suspicion (Indagine su un cittadino al di sopra di ogni sospetto)",
+        "description": "in quam fringilla rhoncus mauris enim leo rhoncus sed vestibulum sit",
+        "date_published": "2022-06-07T08:05:17Z",
+        "isbn": "247066781-X",
+        "price": "59.66",
+        "genre": "TRAGEDY",
+        "publisher": 23
+    }
+},
+{
+    "model": "my_app.book",
+    "pk": 24,
+    "fields": {
+        "title": "Son of Dracula",
+        "description": "ligula vehicula consequat morbi a ipsum integer a nibh in quis justo maecenas rhoncus aliquam",
+        "date_published": "2022-06-28T05:14:45Z",
+        "isbn": "944685790-2",
+        "price": "21.60",
+        "genre": "TRAGEDY",
+        "publisher": 24
+    }
+},
+{
+    "model": "my_app.book",
+    "pk": 25,
+    "fields": {
+        "title": "American Boy: A Profile of: Steven Prince",
+        "description": "penatibus et magnis dis parturient montes nascetur ridiculus mus vivamus vestibulum sagittis sapien cum sociis natoque penatibus et magnis",
+        "date_published": "2021-12-25T15:28:34Z",
+        "isbn": "451946144-8",
+        "price": "43.35",
+        "genre": "ROMANCE",
+        "publisher": 25
+    }
+},
+{
+    "model": "my_app.book",
+    "pk": 26,
+    "fields": {
+        "title": "Men to Kiss",
+        "description": "cras non velit nec nisi vulputate nonummy maecenas tincidunt lacus at velit vivamus vel",
+        "date_published": "2021-11-15T14:08:16Z",
+        "isbn": "194031182-9",
+        "price": "68.96",
+        "genre": "ROMANCE",
+        "publisher": 26
+    }
+},
+{
+    "model": "my_app.book",
+    "pk": 27,
+    "fields": {
+        "title": "After the Fox (Caccia alla volpe)",
+        "description": "id justo sit amet sapien dignissim vestibulum vestibulum ante ipsum primis in faucibus orci luctus et ultrices",
+        "date_published": "2022-06-29T00:42:23Z",
+        "isbn": "772368739-7",
+        "price": "72.86",
+        "genre": "TRAGEDY",
+        "publisher": 27
+    }
+},
+{
+    "model": "my_app.book",
+    "pk": 28,
+    "fields": {
+        "title": "Wolves",
+        "description": "vestibulum quam sapien varius ut blandit non interdum in ante vestibulum ante ipsum primis in faucibus orci luctus et ultrices",
+        "date_published": "2022-04-20T13:33:03Z",
+        "isbn": "569887758-0",
+        "price": "83.79",
+        "genre": "TRAGEDY",
+        "publisher": 28
+    }
+},
+{
+    "model": "my_app.book",
+    "pk": 29,
+    "fields": {
+        "title": "Berberian Sound Studio",
+        "description": "vivamus in felis eu sapien cursus vestibulum proin eu mi nulla ac enim in tempor turpis nec euismod scelerisque quam",
+        "date_published": "2021-10-09T05:25:03Z",
+        "isbn": "348989627-0",
+        "price": "27.39",
+        "genre": "ROMANCE",
+        "publisher": 29
+    }
+},
+{
+    "model": "my_app.book",
+    "pk": 30,
+    "fields": {
+        "title": "Charlotte Gray",
+        "description": "massa id lobortis convallis tortor risus dapibus augue vel accumsan tellus nisi",
+        "date_published": "2021-12-24T22:19:08Z",
+        "isbn": "116029983-8",
+        "price": "97.86",
+        "genre": "TRAGEDY",
+        "publisher": 30
+    }
+},
+{
+    "model": "my_app.book",
+    "pk": 31,
+    "fields": {
+        "title": "Transformers",
+        "description": "sapien ut nunc vestibulum ante ipsum primis in faucibus orci luctus et ultrices",
+        "date_published": "2022-03-10T03:56:18Z",
+        "isbn": "340870144-X",
+        "price": "81.29",
+        "genre": "TRAGEDY",
+        "publisher": 31
+    }
+},
+{
+    "model": "my_app.book",
+    "pk": 32,
+    "fields": {
+        "title": "Prince of Darkness",
+        "description": "dolor sit amet consectetuer adipiscing elit proin risus praesent lectus vestibulum",
+        "date_published": "2022-06-25T22:29:51Z",
+        "isbn": "595481188-1",
+        "price": "19.62",
+        "genre": "ROMANCE",
+        "publisher": 32
+    }
+},
+{
+    "model": "my_app.book",
+    "pk": 33,
+    "fields": {
+        "title": "House of Strangers",
+        "description": "malesuada in imperdiet et commodo vulputate justo in blandit ultrices enim lorem",
+        "date_published": "2022-01-19T18:02:00Z",
+        "isbn": "307067982-X",
+        "price": "56.42",
+        "genre": "FICTION",
+        "publisher": 33
+    }
+},
+{
+    "model": "my_app.book",
+    "pk": 34,
+    "fields": {
+        "title": "Butterfly Kiss",
+        "description": "id justo sit amet sapien dignissim vestibulum vestibulum ante ipsum primis in faucibus orci luctus",
+        "date_published": "2022-02-25T23:16:54Z",
+        "isbn": "728953690-8",
+        "price": "84.73",
+        "genre": "ROMANCE",
+        "publisher": 34
+    }
+},
+{
+    "model": "my_app.book",
+    "pk": 35,
+    "fields": {
+        "title": "Spy Who Loved Me, The",
+        "description": "mauris viverra diam vitae quam suspendisse potenti nullam porttitor lacus at turpis donec posuere metus vitae ipsum aliquam non",
+        "date_published": "2022-06-17T06:29:42Z",
+        "isbn": "974809527-4",
+        "price": "93.01",
+        "genre": "NON_FICTION",
+        "publisher": 35
+    }
+},
+{
+    "model": "my_app.book",
+    "pk": 36,
+    "fields": {
+        "title": "Within Our Gates",
+        "description": "consequat morbi a ipsum integer a nibh in quis justo maecenas rhoncus aliquam",
+        "date_published": "2021-11-08T07:49:59Z",
+        "isbn": "779693025-9",
+        "price": "34.55",
+        "genre": "TRAGEDY",
+        "publisher": 36
+    }
+},
+{
+    "model": "my_app.book",
+    "pk": 37,
+    "fields": {
+        "title": "Air Up There, The",
+        "description": "sed nisl nunc rhoncus dui vel sem sed sagittis nam congue risus",
+        "date_published": "2022-01-20T06:20:09Z",
+        "isbn": "217151979-7",
+        "price": "62.51",
+        "genre": "FICTION",
+        "publisher": 37
+    }
+},
+{
+    "model": "my_app.book",
+    "pk": 38,
+    "fields": {
+        "title": "City of No Limits, The (la ciudad sin límites, En)",
+        "description": "praesent blandit lacinia erat vestibulum sed magna at nunc commodo placerat praesent blandit nam nulla integer pede justo lacinia eget",
+        "date_published": "2022-07-05T00:37:21Z",
+        "isbn": "496908861-6",
+        "price": "11.57",
+        "genre": "TRAGEDY",
+        "publisher": 38
+    }
+},
+{
+    "model": "my_app.book",
+    "pk": 39,
+    "fields": {
+        "title": "Secret Life of Walter Mitty, The",
+        "description": "porttitor pede justo eu massa donec dapibus duis at velit eu est congue elementum",
+        "date_published": "2022-03-10T10:17:30Z",
+        "isbn": "655515877-8",
+        "price": "43.22",
+        "genre": "TRAGEDY",
+        "publisher": 39
+    }
+},
+{
+    "model": "my_app.book",
+    "pk": 40,
+    "fields": {
+        "title": "Left Hand of God, The",
+        "description": "sagittis dui vel nisl duis ac nibh fusce lacus purus aliquet",
+        "date_published": "2021-11-21T12:29:05Z",
+        "isbn": "566320805-4",
+        "price": "88.28",
+        "genre": "NON_FICTION",
+        "publisher": 40
+    }
+},
+{
+    "model": "my_app.book",
+    "pk": 41,
+    "fields": {
+        "title": "Killer: A Journal of Murder",
+        "description": "lacus curabitur at ipsum ac tellus semper interdum mauris ullamcorper purus",
+        "date_published": "2022-08-31T13:11:07Z",
+        "isbn": "502016735-5",
+        "price": "28.84",
+        "genre": "ROMANCE",
+        "publisher": 41
+    }
+},
+{
+    "model": "my_app.book",
+    "pk": 42,
+    "fields": {
+        "title": "Warrior's Way, The",
+        "description": "cum sociis natoque penatibus et magnis dis parturient montes nascetur",
+        "date_published": "2022-09-21T04:18:30Z",
+        "isbn": "053507162-0",
+        "price": "61.60",
+        "genre": "COMEDY",
+        "publisher": 42
+    }
+},
+{
+    "model": "my_app.book",
+    "pk": 43,
+    "fields": {
+        "title": "Silent Trigger",
+        "description": "sagittis dui vel nisl duis ac nibh fusce lacus purus aliquet at feugiat",
+        "date_published": "2022-07-12T05:46:59Z",
+        "isbn": "819400973-1",
+        "price": "84.27",
+        "genre": "ROMANCE",
+        "publisher": 43
+    }
+},
+{
+    "model": "my_app.book",
+    "pk": 44,
+    "fields": {
+        "title": "Ultrasuede: In Search of Halston",
+        "description": "praesent blandit nam nulla integer pede justo lacinia eget tincidunt eget tempus vel pede",
+        "date_published": "2022-05-08T22:08:25Z",
+        "isbn": "403898662-4",
+        "price": "63.56",
+        "genre": "TRAGEDY",
+        "publisher": 44
+    }
+},
+{
+    "model": "my_app.book",
+    "pk": 45,
+    "fields": {
+        "title": "Creator",
+        "description": "quisque erat eros viverra eget congue eget semper rutrum nulla nunc",
+        "date_published": "2022-01-02T20:56:19Z",
+        "isbn": "297807627-5",
+        "price": "82.59",
+        "genre": "TRAGEDY",
+        "publisher": 45
+    }
+},
+{
+    "model": "my_app.book",
+    "pk": 46,
+    "fields": {
+        "title": "Reader, The",
+        "description": "nulla eget eros elementum pellentesque quisque porta volutpat erat quisque erat eros viverra eget congue eget semper rutrum nulla nunc",
+        "date_published": "2022-03-18T15:21:41Z",
+        "isbn": "616560380-7",
+        "price": "94.88",
+        "genre": "ROMANCE",
+        "publisher": 46
+    }
+},
+{
+    "model": "my_app.book",
+    "pk": 47,
+    "fields": {
+        "title": "Wild Tigers I Have Known",
+        "description": "eleifend donec ut dolor morbi vel lectus in quam fringilla",
+        "date_published": "2022-01-17T14:21:21Z",
+        "isbn": "488163232-9",
+        "price": "99.70",
+        "genre": "TRAGEDY",
+        "publisher": 47
+    }
+},
+{
+    "model": "my_app.book",
+    "pk": 48,
+    "fields": {
+        "title": "Campfire Tales",
+        "description": "massa donec dapibus duis at velit eu est congue elementum in hac habitasse platea dictumst",
+        "date_published": "2022-05-04T00:57:02Z",
+        "isbn": "371769627-0",
+        "price": "98.09",
+        "genre": "ROMANCE",
+        "publisher": 48
+    }
+},
+{
+    "model": "my_app.book",
+    "pk": 49,
+    "fields": {
+        "title": "Unleashed (Danny the Dog)",
+        "description": "nec dui luctus rutrum nulla tellus in sagittis dui vel nisl duis ac nibh fusce lacus",
+        "date_published": "2022-08-28T04:34:23Z",
+        "isbn": "758069413-1",
+        "price": "97.17",
+        "genre": "FICTION",
+        "publisher": 49
+    }
+},
+{
+    "model": "my_app.book",
+    "pk": 50,
+    "fields": {
+        "title": "Paris Is Burning",
+        "description": "dictumst morbi vestibulum velit id pretium iaculis diam erat fermentum justo nec condimentum neque sapien placerat ante nulla",
+        "date_published": "2022-09-02T21:36:08Z",
+        "isbn": "727963300-5",
+        "price": "22.89",
+        "genre": "TRAGEDY",
+        "publisher": 50
+    }
+},
+{
+    "model": "my_app.book",
+    "pk": 51,
+    "fields": {
+        "title": "Son of the Bride (Hijo de la novia, El)",
+        "description": "justo aliquam quis turpis eget elit sodales scelerisque mauris sit amet eros suspendisse accumsan tortor quis turpis",
+        "date_published": "2021-10-08T16:01:11Z",
+        "isbn": "502231433-9",
+        "price": "91.75",
+        "genre": "NON_FICTION",
+        "publisher": 51
+    }
+},
+{
+    "model": "my_app.book",
+    "pk": 52,
+    "fields": {
+        "title": "Last American Hero, The",
+        "description": "mauris laoreet ut rhoncus aliquet pulvinar sed nisl nunc rhoncus dui vel sem sed sagittis",
+        "date_published": "2021-10-08T10:50:22Z",
+        "isbn": "122812057-9",
+        "price": "50.95",
+        "genre": "NON_FICTION",
+        "publisher": 52
+    }
+},
+{
+    "model": "my_app.book",
+    "pk": 53,
+    "fields": {
+        "title": "Interstella 5555: The 5tory of the 5ecret 5tar 5ystem",
+        "description": "nascetur ridiculus mus etiam vel augue vestibulum rutrum rutrum neque",
+        "date_published": "2021-10-10T19:20:23Z",
+        "isbn": "957268289-X",
+        "price": "78.46",
+        "genre": "ROMANCE",
+        "publisher": 53
+    }
+},
+{
+    "model": "my_app.book",
+    "pk": 54,
+    "fields": {
+        "title": "Slingshot Hip Hop",
+        "description": "sit amet eros suspendisse accumsan tortor quis turpis sed ante vivamus tortor duis mattis egestas metus",
+        "date_published": "2022-08-08T15:58:38Z",
+        "isbn": "931439833-1",
+        "price": "92.05",
+        "genre": "NON_FICTION",
+        "publisher": 54
+    }
+},
+{
+    "model": "my_app.book",
+    "pk": 55,
+    "fields": {
+        "title": "Mimino",
+        "description": "in lacus curabitur at ipsum ac tellus semper interdum mauris ullamcorper purus sit amet nulla quisque arcu libero rutrum ac",
+        "date_published": "2022-04-02T07:58:12Z",
+        "isbn": "619248826-6",
+        "price": "97.78",
+        "genre": "TRAGEDY",
+        "publisher": 55
+    }
+},
+{
+    "model": "my_app.book",
+    "pk": 56,
+    "fields": {
+        "title": "247°F ",
+        "description": "hac habitasse platea dictumst etiam faucibus cursus urna ut tellus nulla ut erat id mauris vulputate elementum nullam varius",
+        "date_published": "2022-07-15T14:21:13Z",
+        "isbn": "656072052-7",
+        "price": "95.16",
+        "genre": "NON_FICTION",
+        "publisher": 56
+    }
+},
+{
+    "model": "my_app.book",
+    "pk": 57,
+    "fields": {
+        "title": "It Happened on Fifth Avenue",
+        "description": "bibendum imperdiet nullam orci pede venenatis non sodales sed tincidunt eu felis fusce posuere felis",
+        "date_published": "2021-10-24T17:32:41Z",
+        "isbn": "808170289-X",
+        "price": "56.24",
+        "genre": "ROMANCE",
+        "publisher": 57
+    }
+},
+{
+    "model": "my_app.book",
+    "pk": 58,
+    "fields": {
+        "title": "Land, The (Al-ard)",
+        "description": "vestibulum rutrum rutrum neque aenean auctor gravida sem praesent id massa id nisl venenatis lacinia aenean sit amet justo morbi",
+        "date_published": "2021-10-10T20:57:05Z",
+        "isbn": "524578449-1",
+        "price": "48.28",
+        "genre": "ROMANCE",
+        "publisher": 58
+    }
+},
+{
+    "model": "my_app.book",
+    "pk": 59,
+    "fields": {
+        "title": "Confessions of a Teenage Drama Queen",
+        "description": "natoque penatibus et magnis dis parturient montes nascetur ridiculus mus vivamus vestibulum sagittis sapien",
+        "date_published": "2022-02-25T05:49:08Z",
+        "isbn": "391865301-3",
+        "price": "38.94",
+        "genre": "TRAGEDY",
+        "publisher": 59
+    }
+},
+{
+    "model": "my_app.book",
+    "pk": 60,
+    "fields": {
+        "title": "Blood and Roses (Et mourir de plaisir) (To Die with Pleasure)",
+        "description": "cubilia curae donec pharetra magna vestibulum aliquet ultrices erat tortor sollicitudin mi sit",
+        "date_published": "2022-01-01T18:24:09Z",
+        "isbn": "201937414-5",
+        "price": "72.23",
+        "genre": "ROMANCE",
+        "publisher": 60
+    }
+},
+{
+    "model": "my_app.book",
+    "pk": 61,
+    "fields": {
+        "title": "Breakfast at Tiffany's",
+        "description": "nisi at nibh in hac habitasse platea dictumst aliquam augue",
+        "date_published": "2022-08-03T20:39:02Z",
+        "isbn": "762556172-0",
+        "price": "59.11",
+        "genre": "ROMANCE",
+        "publisher": 61
+    }
+},
+{
+    "model": "my_app.book",
+    "pk": 62,
+    "fields": {
+        "title": "Official Story, The (La historia oficial)",
+        "description": "suspendisse potenti nullam porttitor lacus at turpis donec posuere metus vitae ipsum aliquam non",
+        "date_published": "2021-11-27T21:02:43Z",
+        "isbn": "836424083-8",
+        "price": "90.19",
+        "genre": "TRAGEDY",
+        "publisher": 62
+    }
+},
+{
+    "model": "my_app.book",
+    "pk": 63,
+    "fields": {
+        "title": "Halloween III: Season of the Witch",
+        "description": "risus dapibus augue vel accumsan tellus nisi eu orci mauris lacinia sapien quis libero nullam sit amet turpis",
+        "date_published": "2022-04-15T11:29:40Z",
+        "isbn": "829182454-1",
+        "price": "33.42",
+        "genre": "ROMANCE",
+        "publisher": 63
+    }
+},
+{
+    "model": "my_app.book",
+    "pk": 64,
+    "fields": {
+        "title": "Three Stooges, The",
+        "description": "massa id lobortis convallis tortor risus dapibus augue vel accumsan tellus nisi eu",
+        "date_published": "2022-08-13T06:58:39Z",
+        "isbn": "647447299-5",
+        "price": "63.77",
+        "genre": "ROMANCE",
+        "publisher": 64
+    }
+},
+{
+    "model": "my_app.book",
+    "pk": 65,
+    "fields": {
+        "title": "Date with Judy, A",
+        "description": "molestie lorem quisque ut erat curabitur gravida nisi at nibh in hac habitasse platea dictumst aliquam augue quam sollicitudin vitae",
+        "date_published": "2022-01-23T19:32:29Z",
+        "isbn": "209399525-5",
+        "price": "92.81",
+        "genre": "NON_FICTION",
+        "publisher": 65
+    }
+},
+{
+    "model": "my_app.book",
+    "pk": 66,
+    "fields": {
+        "title": "Flight of the Living Dead",
+        "description": "pellentesque volutpat dui maecenas tristique est et tempus semper est quam pharetra magna ac consequat metus sapien",
+        "date_published": "2022-06-13T09:06:59Z",
+        "isbn": "504358778-4",
+        "price": "19.64",
+        "genre": "ROMANCE",
+        "publisher": 66
+    }
+},
+{
+    "model": "my_app.book",
+    "pk": 67,
+    "fields": {
+        "title": "Pig's Tale, A",
+        "description": "velit donec diam neque vestibulum eget vulputate ut ultrices vel",
+        "date_published": "2022-02-07T02:38:59Z",
+        "isbn": "539118907-1",
+        "price": "52.58",
+        "genre": "ROMANCE",
+        "publisher": 67
+    }
+},
+{
+    "model": "my_app.book",
+    "pk": 68,
+    "fields": {
+        "title": "Red Obession",
+        "description": "amet eros suspendisse accumsan tortor quis turpis sed ante vivamus tortor duis mattis egestas metus aenean fermentum",
+        "date_published": "2022-04-24T11:12:24Z",
+        "isbn": "954143957-8",
+        "price": "35.37",
+        "genre": "ROMANCE",
+        "publisher": 68
+    }
+},
+{
+    "model": "my_app.book",
+    "pk": 69,
+    "fields": {
+        "title": "Beyond Justice",
+        "description": "commodo vulputate justo in blandit ultrices enim lorem ipsum dolor sit amet consectetuer adipiscing elit proin",
+        "date_published": "2022-09-05T15:40:20Z",
+        "isbn": "192997853-7",
+        "price": "18.82",
+        "genre": "ROMANCE",
+        "publisher": 69
+    }
+},
+{
+    "model": "my_app.book",
+    "pk": 70,
+    "fields": {
+        "title": "Anne of Green Gables: The Sequel (a.k.a. Anne of Avonlea)",
+        "description": "sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus vivamus vestibulum",
+        "date_published": "2021-11-04T16:58:10Z",
+        "isbn": "545128259-5",
+        "price": "87.42",
+        "genre": "TRAGEDY",
+        "publisher": 70
+    }
+},
+{
+    "model": "my_app.book",
+    "pk": 71,
+    "fields": {
+        "title": "Pat and Mike",
+        "description": "nulla neque libero convallis eget eleifend luctus ultricies eu nibh quisque id justo sit",
+        "date_published": "2022-02-22T00:35:08Z",
+        "isbn": "944827773-3",
+        "price": "27.06",
+        "genre": "ROMANCE",
+        "publisher": 71
+    }
+},
+{
+    "model": "my_app.book",
+    "pk": 72,
+    "fields": {
+        "title": "12 Dogs of Christmas, The",
+        "description": "luctus tincidunt nulla mollis molestie lorem quisque ut erat curabitur gravida nisi at nibh in hac habitasse",
+        "date_published": "2022-01-24T22:11:01Z",
+        "isbn": "169985264-2",
+        "price": "53.22",
+        "genre": "ROMANCE",
+        "publisher": 72
+    }
+},
+{
+    "model": "my_app.book",
+    "pk": 73,
+    "fields": {
+        "title": "Day in the Country, A (Partie de campagne)",
+        "description": "enim leo rhoncus sed vestibulum sit amet cursus id turpis integer",
+        "date_published": "2021-11-14T19:52:19Z",
+        "isbn": "001619393-8",
+        "price": "95.41",
+        "genre": "TRAGEDY",
+        "publisher": 73
+    }
+},
+{
+    "model": "my_app.book",
+    "pk": 74,
+    "fields": {
+        "title": "Flakes",
+        "description": "aliquam sit amet diam in magna bibendum imperdiet nullam orci pede venenatis",
+        "date_published": "2022-01-10T03:36:49Z",
+        "isbn": "473954500-4",
+        "price": "77.48",
+        "genre": "ROMANCE",
+        "publisher": 74
+    }
+},
+{
+    "model": "my_app.book",
+    "pk": 75,
+    "fields": {
+        "title": "Return of the Living Dead, The",
+        "description": "lorem quisque ut erat curabitur gravida nisi at nibh in hac habitasse platea dictumst aliquam augue",
+        "date_published": "2022-07-08T21:56:55Z",
+        "isbn": "031280328-1",
+        "price": "99.95",
+        "genre": "ROMANCE",
+        "publisher": 75
+    }
+},
+{
+    "model": "my_app.book",
+    "pk": 76,
+    "fields": {
+        "title": "Romantics Anonymous (Les émotifs anonymes)",
+        "description": "platea dictumst morbi vestibulum velit id pretium iaculis diam erat fermentum justo nec condimentum neque sapien placerat ante nulla",
+        "date_published": "2022-03-02T05:47:19Z",
+        "isbn": "370231240-4",
+        "price": "70.02",
+        "genre": "ROMANCE",
+        "publisher": 76
+    }
+},
+{
+    "model": "my_app.book",
+    "pk": 77,
+    "fields": {
+        "title": "Crazies, The (a.k.a. Code Name: Trixie)",
+        "description": "fermentum donec ut mauris eget massa tempor convallis nulla neque libero convallis eget eleifend luctus ultricies eu nibh quisque",
+        "date_published": "2021-10-02T20:55:52Z",
+        "isbn": "183078624-5",
+        "price": "64.54",
+        "genre": "ROMANCE",
+        "publisher": 77
+    }
+},
+{
+    "model": "my_app.book",
+    "pk": 78,
+    "fields": {
+        "title": "Dreamcatcher",
+        "description": "mauris non ligula pellentesque ultrices phasellus id sapien in sapien iaculis congue vivamus metus arcu adipiscing molestie hendrerit at",
+        "date_published": "2021-10-10T22:06:33Z",
+        "isbn": "962172869-X",
+        "price": "35.35",
+        "genre": "ROMANCE",
+        "publisher": 78
+    }
+},
+{
+    "model": "my_app.book",
+    "pk": 79,
+    "fields": {
+        "title": "Expelled: No Intelligence Allowed",
+        "description": "duis bibendum felis sed interdum venenatis turpis enim blandit mi in porttitor pede justo eu massa donec",
+        "date_published": "2022-04-19T14:30:39Z",
+        "isbn": "564990229-1",
+        "price": "72.93",
+        "genre": "ROMANCE",
+        "publisher": 79
+    }
+},
+{
+    "model": "my_app.book",
+    "pk": 80,
+    "fields": {
+        "title": "We're the Millers",
+        "description": "luctus et ultrices posuere cubilia curae duis faucibus accumsan odio curabitur convallis",
+        "date_published": "2022-03-31T17:21:20Z",
+        "isbn": "726281743-4",
+        "price": "87.92",
+        "genre": "ROMANCE",
+        "publisher": 80
+    }
+},
+{
+    "model": "my_app.book",
+    "pk": 81,
+    "fields": {
+        "title": "Modern Romance",
+        "description": "aliquam convallis nunc proin at turpis a pede posuere nonummy integer",
+        "date_published": "2022-08-03T22:46:44Z",
+        "isbn": "370714624-3",
+        "price": "46.96",
+        "genre": "TRAGEDY",
+        "publisher": 81
+    }
+},
+{
+    "model": "my_app.book",
+    "pk": 82,
+    "fields": {
+        "title": "Steal This Film II",
+        "description": "nibh in quis justo maecenas rhoncus aliquam lacus morbi quis tortor id nulla",
+        "date_published": "2021-10-17T18:25:49Z",
+        "isbn": "767028570-2",
+        "price": "69.84",
+        "genre": "TRAGEDY",
+        "publisher": 82
+    }
+},
+{
+    "model": "my_app.book",
+    "pk": 83,
+    "fields": {
+        "title": "Cold Turkey",
+        "description": "vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae",
+        "date_published": "2022-05-26T11:46:35Z",
+        "isbn": "427858210-2",
+        "price": "57.36",
+        "genre": "TRAGEDY",
+        "publisher": 83
+    }
+},
+{
+    "model": "my_app.book",
+    "pk": 84,
+    "fields": {
+        "title": "Nice Guys Sleep Alone",
+        "description": "sem duis aliquam convallis nunc proin at turpis a pede posuere",
+        "date_published": "2022-06-03T03:22:16Z",
+        "isbn": "259312715-5",
+        "price": "42.75",
+        "genre": "ROMANCE",
+        "publisher": 84
+    }
+},
+{
+    "model": "my_app.book",
+    "pk": 85,
+    "fields": {
+        "title": "Hearts in Atlantis",
+        "description": "nulla suscipit ligula in lacus curabitur at ipsum ac tellus semper interdum mauris",
+        "date_published": "2021-12-30T22:04:26Z",
+        "isbn": "509593734-4",
+        "price": "62.29",
+        "genre": "ROMANCE",
+        "publisher": 85
+    }
+},
+{
+    "model": "my_app.book",
+    "pk": 86,
+    "fields": {
+        "title": "Personal Best",
+        "description": "ullamcorper augue a suscipit nulla elit ac nulla sed vel enim sit amet nunc viverra dapibus",
+        "date_published": "2021-11-28T07:45:44Z",
+        "isbn": "528734424-4",
+        "price": "96.11",
+        "genre": "NON_FICTION",
+        "publisher": 86
+    }
+},
+{
+    "model": "my_app.book",
+    "pk": 87,
+    "fields": {
+        "title": "Muppet Treasure Island",
+        "description": "orci luctus et ultrices posuere cubilia curae mauris viverra diam vitae quam suspendisse potenti nullam porttitor lacus at turpis donec",
+        "date_published": "2022-04-27T21:29:56Z",
+        "isbn": "307921262-2",
+        "price": "16.17",
+        "genre": "TRAGEDY",
+        "publisher": 87
+    }
+},
+{
+    "model": "my_app.book",
+    "pk": 88,
+    "fields": {
+        "title": "Rose, The",
+        "description": "nec dui luctus rutrum nulla tellus in sagittis dui vel nisl duis ac nibh fusce lacus purus aliquet",
+        "date_published": "2022-03-12T23:42:02Z",
+        "isbn": "614807479-6",
+        "price": "74.54",
+        "genre": "COMEDY",
+        "publisher": 88
+    }
+},
+{
+    "model": "my_app.book",
+    "pk": 89,
+    "fields": {
+        "title": "The Hire: Star, The",
+        "description": "rutrum rutrum neque aenean auctor gravida sem praesent id massa id nisl venenatis lacinia aenean sit amet",
+        "date_published": "2022-01-12T14:28:10Z",
+        "isbn": "839329669-2",
+        "price": "89.76",
+        "genre": "TRAGEDY",
+        "publisher": 89
+    }
+},
+{
+    "model": "my_app.book",
+    "pk": 90,
+    "fields": {
+        "title": "Striking Distance",
+        "description": "eros vestibulum ac est lacinia nisi venenatis tristique fusce congue diam id ornare imperdiet sapien urna pretium nisl ut",
+        "date_published": "2022-04-29T06:44:29Z",
+        "isbn": "333670858-3",
+        "price": "22.81",
+        "genre": "ROMANCE",
+        "publisher": 90
+    }
+},
+{
+    "model": "my_app.book",
+    "pk": 91,
+    "fields": {
+        "title": "Super Duper Alice Cooper",
+        "description": "donec odio justo sollicitudin ut suscipit a feugiat et eros vestibulum ac est lacinia nisi venenatis tristique fusce congue",
+        "date_published": "2022-09-23T02:27:29Z",
+        "isbn": "876411789-8",
+        "price": "20.39",
+        "genre": "ROMANCE",
+        "publisher": 91
+    }
+},
+{
+    "model": "my_app.book",
+    "pk": 92,
+    "fields": {
+        "title": "Ten Minutes Older",
+        "description": "ultrices libero non mattis pulvinar nulla pede ullamcorper augue a",
+        "date_published": "2021-12-21T00:13:01Z",
+        "isbn": "579750376-X",
+        "price": "35.47",
+        "genre": "ROMANCE",
+        "publisher": 92
+    }
+},
+{
+    "model": "my_app.book",
+    "pk": 93,
+    "fields": {
+        "title": "Foxfire",
+        "description": "magna at nunc commodo placerat praesent blandit nam nulla integer pede justo lacinia eget tincidunt eget tempus vel pede",
+        "date_published": "2022-03-22T14:28:38Z",
+        "isbn": "839464552-6",
+        "price": "62.21",
+        "genre": "TRAGEDY",
+        "publisher": 93
+    }
+},
+{
+    "model": "my_app.book",
+    "pk": 94,
+    "fields": {
+        "title": "Nell",
+        "description": "sagittis nam congue risus semper porta volutpat quam pede lobortis ligula sit amet eleifend pede",
+        "date_published": "2022-01-10T16:50:18Z",
+        "isbn": "870669144-7",
+        "price": "60.87",
+        "genre": "ROMANCE",
+        "publisher": 94
+    }
+},
+{
+    "model": "my_app.book",
+    "pk": 95,
+    "fields": {
+        "title": "Petals on the Wind",
+        "description": "mauris non ligula pellentesque ultrices phasellus id sapien in sapien iaculis congue vivamus metus arcu adipiscing molestie hendrerit",
+        "date_published": "2022-08-27T01:04:26Z",
+        "isbn": "310368865-2",
+        "price": "69.90",
+        "genre": "FICTION",
+        "publisher": 95
+    }
+},
+{
+    "model": "my_app.book",
+    "pk": 96,
+    "fields": {
+        "title": "Hush!",
+        "description": "blandit nam nulla integer pede justo lacinia eget tincidunt eget tempus",
+        "date_published": "2022-04-04T16:56:03Z",
+        "isbn": "421117285-9",
+        "price": "83.61",
+        "genre": "NON_FICTION",
+        "publisher": 96
+    }
+},
+{
+    "model": "my_app.book",
+    "pk": 97,
+    "fields": {
+        "title": "Collateral",
+        "description": "molestie hendrerit at vulputate vitae nisl aenean lectus pellentesque eget nunc donec",
+        "date_published": "2021-11-24T16:35:53Z",
+        "isbn": "486438049-X",
+        "price": "40.17",
+        "genre": "ROMANCE",
+        "publisher": 97
+    }
+},
+{
+    "model": "my_app.book",
+    "pk": 98,
+    "fields": {
+        "title": "Computer Wore Tennis Shoes, The",
+        "description": "viverra eget congue eget semper rutrum nulla nunc purus phasellus in felis",
+        "date_published": "2021-10-26T12:51:22Z",
+        "isbn": "500036654-9",
+        "price": "79.60",
+        "genre": "ROMANCE",
+        "publisher": 98
+    }
+},
+{
+    "model": "my_app.book",
+    "pk": 99,
+    "fields": {
+        "title": "Drop Zone",
+        "description": "sagittis nam congue risus semper porta volutpat quam pede lobortis ligula sit amet eleifend pede libero quis",
+        "date_published": "2021-10-10T10:47:27Z",
+        "isbn": "918312691-0",
+        "price": "22.34",
+        "genre": "ROMANCE",
+        "publisher": 99
+    }
+},
+{
+    "model": "my_app.book",
+    "pk": 100,
+    "fields": {
+        "title": "Dragon: The Bruce Lee Story",
+        "description": "lorem vitae mattis nibh ligula nec sem duis aliquam convallis",
+        "date_published": "2022-09-23T15:31:14Z",
+        "isbn": "421873153-5",
+        "price": "59.43",
+        "genre": "TRAGEDY",
+        "publisher": 100
+    }
+},
+{
+    "model": "my_app.publisher",
+    "pk": 1,
+    "fields": {
+        "name": "Fraze Kennea",
+        "email": "fkennea0@zimbio.com",
+        "url": "theguardian.com/non/quam/nec.aspx"
+    }
+},
+{
+    "model": "my_app.publisher",
+    "pk": 2,
+    "fields": {
+        "name": "Johnna Biddwell",
+        "email": "jbiddwell1@meetup.com",
+        "url": "github.io/nisi/eu/orci.xml"
+    }
+},
+{
+    "model": "my_app.publisher",
+    "pk": 3,
+    "fields": {
+        "name": "Jarrett Najara",
+        "email": "jnajara2@sohu.com",
+        "url": "usnews.com/odio/curabitur/convallis/duis/consequat.js"
+    }
+},
+{
+    "model": "my_app.publisher",
+    "pk": 4,
+    "fields": {
+        "name": "Willem Gomme",
+        "email": "wgomme3@hc360.com",
+        "url": "seesaa.net/ante/ipsum/primis/in/faucibus/orci/luctus.xml"
+    }
+},
+{
+    "model": "my_app.publisher",
+    "pk": 5,
+    "fields": {
+        "name": "Aldis Sackett",
+        "email": "asackett4@over-blog.com",
+        "url": "phpbb.com/habitasse/platea/dictumst.json"
+    }
+},
+{
+    "model": "my_app.publisher",
+    "pk": 6,
+    "fields": {
+        "name": "Turner Quiddinton",
+        "email": "tquiddinton5@oracle.com",
+        "url": "imageshack.us/amet/cursus/id/turpis.xml"
+    }
+},
+{
+    "model": "my_app.publisher",
+    "pk": 7,
+    "fields": {
+        "name": "Kora Shearston",
+        "email": "kshearston6@about.me",
+        "url": "ovh.net/curabitur/gravida/nisi/at.js"
+    }
+},
+{
+    "model": "my_app.publisher",
+    "pk": 8,
+    "fields": {
+        "name": "Jobyna Linkleter",
+        "email": "jlinkleter7@java.com",
+        "url": "vinaora.com/ultricies/eu/nibh/quisque/id/justo/sit.xml"
+    }
+},
+{
+    "model": "my_app.publisher",
+    "pk": 9,
+    "fields": {
+        "name": "Alexine Giaomozzo",
+        "email": "agiaomozzo8@g.co",
+        "url": "yahoo.co.jp/fermentum.aspx"
+    }
+},
+{
+    "model": "my_app.publisher",
+    "pk": 10,
+    "fields": {
+        "name": "Gerladina Woolsey",
+        "email": "gwoolsey9@hatena.ne.jp",
+        "url": "odnoklassniki.ru/aliquet/ultrices/erat/tortor/sollicitudin.json"
+    }
+},
+{
+    "model": "my_app.publisher",
+    "pk": 11,
+    "fields": {
+        "name": "Alfie Shakle",
+        "email": "ashaklea@cmu.edu",
+        "url": "qq.com/eget/nunc.jpg"
+    }
+},
+{
+    "model": "my_app.publisher",
+    "pk": 12,
+    "fields": {
+        "name": "Mallissa Shama",
+        "email": "mshamab@census.gov",
+        "url": "hugedomains.com/non/pretium/quis/lectus/suspendisse/potenti.aspx"
+    }
+},
+{
+    "model": "my_app.publisher",
+    "pk": 13,
+    "fields": {
+        "name": "Nikos Giottini",
+        "email": "ngiottinic@baidu.com",
+        "url": "illinois.edu/sed/vel/enim/sit/amet/nunc.jpg"
+    }
+},
+{
+    "model": "my_app.publisher",
+    "pk": 14,
+    "fields": {
+        "name": "Seymour Whillock",
+        "email": "swhillockd@cyberchimps.com",
+        "url": "wikipedia.org/sed/justo.jsp"
+    }
+},
+{
+    "model": "my_app.publisher",
+    "pk": 15,
+    "fields": {
+        "name": "Myrle Dahlbom",
+        "email": "mdahlbome@samsung.com",
+        "url": "samsung.com/penatibus/et/magnis.json"
+    }
+},
+{
+    "model": "my_app.publisher",
+    "pk": 16,
+    "fields": {
+        "name": "Masha Yakovitch",
+        "email": "myakovitchf@xinhuanet.com",
+        "url": "elegantthemes.com/quis/odio/consequat/varius.jsp"
+    }
+},
+{
+    "model": "my_app.publisher",
+    "pk": 17,
+    "fields": {
+        "name": "Dolley McClaurie",
+        "email": "dmcclaurieg@skyrock.com",
+        "url": "simplemachines.org/dolor/sit/amet/consectetuer/adipiscing/elit/proin.aspx"
+    }
+},
+{
+    "model": "my_app.publisher",
+    "pk": 18,
+    "fields": {
+        "name": "Aurelea Dutteridge",
+        "email": "adutteridgeh@google.fr",
+        "url": "macromedia.com/sapien/quis/libero/nullam/sit/amet/turpis.png"
+    }
+},
+{
+    "model": "my_app.publisher",
+    "pk": 19,
+    "fields": {
+        "name": "Richmound Wase",
+        "email": "rwasei@is.gd",
+        "url": "nasa.gov/volutpat/convallis/morbi/odio/odio.jpg"
+    }
+},
+{
+    "model": "my_app.publisher",
+    "pk": 20,
+    "fields": {
+        "name": "Clovis Marran",
+        "email": "cmarranj@sbwire.com",
+        "url": "redcross.org/nullam/porttitor/lacus/at.jpg"
+    }
+},
+{
+    "model": "my_app.publisher",
+    "pk": 21,
+    "fields": {
+        "name": "Remus Gilmartin",
+        "email": "rgilmartink@msn.com",
+        "url": "domainmarket.com/sit/amet/nulla/quisque/arcu/libero/rutrum.jsp"
+    }
+},
+{
+    "model": "my_app.publisher",
+    "pk": 22,
+    "fields": {
+        "name": "Rabbi Quoit",
+        "email": "rquoitl@surveymonkey.com",
+        "url": "squidoo.com/nisl/aenean/lectus.js"
+    }
+},
+{
+    "model": "my_app.publisher",
+    "pk": 23,
+    "fields": {
+        "name": "Kathleen Butrimovich",
+        "email": "kbutrimovichm@bloomberg.com",
+        "url": "elegantthemes.com/interdum.json"
+    }
+},
+{
+    "model": "my_app.publisher",
+    "pk": 24,
+    "fields": {
+        "name": "Alvira McKevin",
+        "email": "amckevinn@wiley.com",
+        "url": "theatlantic.com/non/lectus/aliquam/sit.aspx"
+    }
+},
+{
+    "model": "my_app.publisher",
+    "pk": 25,
+    "fields": {
+        "name": "Ara Kinsell",
+        "email": "akinsello@woothemes.com",
+        "url": "opensource.org/turpis/eget/elit/sodales/scelerisque/mauris/sit.xml"
+    }
+},
+{
+    "model": "my_app.publisher",
+    "pk": 26,
+    "fields": {
+        "name": "Nellie Learoid",
+        "email": "nlearoidp@bravesites.com",
+        "url": "taobao.com/pulvinar/nulla/pede/ullamcorper.js"
+    }
+},
+{
+    "model": "my_app.publisher",
+    "pk": 27,
+    "fields": {
+        "name": "Olin Ryburn",
+        "email": "oryburnq@patch.com",
+        "url": "example.com/ridiculus/mus/etiam/vel.png"
+    }
+},
+{
+    "model": "my_app.publisher",
+    "pk": 28,
+    "fields": {
+        "name": "Danna Cutforth",
+        "email": "dcutforthr@tiny.cc",
+        "url": "mozilla.com/porttitor/lacus/at/turpis/donec/posuere.png"
+    }
+},
+{
+    "model": "my_app.publisher",
+    "pk": 29,
+    "fields": {
+        "name": "Gavrielle Marriot",
+        "email": "gmarriots@linkedin.com",
+        "url": "zimbio.com/habitasse/platea/dictumst.html"
+    }
+},
+{
+    "model": "my_app.publisher",
+    "pk": 30,
+    "fields": {
+        "name": "Catherin Braga",
+        "email": "cbragat@google.com.hk",
+        "url": "hc360.com/placerat/praesent/blandit/nam/nulla/integer/pede.png"
+    }
+},
+{
+    "model": "my_app.publisher",
+    "pk": 31,
+    "fields": {
+        "name": "Roseann Bussetti",
+        "email": "rbussettiu@oakley.com",
+        "url": "google.cn/nulla/tellus/in/sagittis.html"
+    }
+},
+{
+    "model": "my_app.publisher",
+    "pk": 32,
+    "fields": {
+        "name": "Linc Henzer",
+        "email": "lhenzerv@jiathis.com",
+        "url": "canalblog.com/donec/posuere/metus.aspx"
+    }
+},
+{
+    "model": "my_app.publisher",
+    "pk": 33,
+    "fields": {
+        "name": "Nicolai Huggens",
+        "email": "nhuggensw@toplist.cz",
+        "url": "imgur.com/cras/mi/pede/malesuada/in/imperdiet.jpg"
+    }
+},
+{
+    "model": "my_app.publisher",
+    "pk": 34,
+    "fields": {
+        "name": "Granger Labrenz",
+        "email": "glabrenzx@t-online.de",
+        "url": "amazon.co.jp/parturient.aspx"
+    }
+},
+{
+    "model": "my_app.publisher",
+    "pk": 35,
+    "fields": {
+        "name": "Dacey German",
+        "email": "dgermany@time.com",
+        "url": "google.fr/arcu/adipiscing/molestie/hendrerit/at/vulputate.xml"
+    }
+},
+{
+    "model": "my_app.publisher",
+    "pk": 36,
+    "fields": {
+        "name": "Elva Derle",
+        "email": "ederlez@google.co.jp",
+        "url": "hp.com/elementum/ligula/vehicula/consequat/morbi.html"
+    }
+},
+{
+    "model": "my_app.publisher",
+    "pk": 37,
+    "fields": {
+        "name": "Wallas Duffett",
+        "email": "wduffett10@wp.com",
+        "url": "irs.gov/volutpat/erat/quisque/erat/eros/viverra/eget.jsp"
+    }
+},
+{
+    "model": "my_app.publisher",
+    "pk": 38,
+    "fields": {
+        "name": "Lucine Esche",
+        "email": "lesche11@pbs.org",
+        "url": "blogs.com/quam.json"
+    }
+},
+{
+    "model": "my_app.publisher",
+    "pk": 39,
+    "fields": {
+        "name": "Manuel Camolli",
+        "email": "mcamolli12@jigsy.com",
+        "url": "unicef.org/eget/tincidunt/eget/tempus/vel/pede.jsp"
+    }
+},
+{
+    "model": "my_app.publisher",
+    "pk": 40,
+    "fields": {
+        "name": "Cliff Di Meo",
+        "email": "cdi13@xrea.com",
+        "url": "technorati.com/laoreet/ut/rhoncus/aliquet/pulvinar/sed/nisl.jpg"
+    }
+},
+{
+    "model": "my_app.publisher",
+    "pk": 41,
+    "fields": {
+        "name": "Drucill Sibbons",
+        "email": "dsibbons14@desdev.cn",
+        "url": "hubpages.com/sem/mauris/laoreet/ut.jpg"
+    }
+},
+{
+    "model": "my_app.publisher",
+    "pk": 42,
+    "fields": {
+        "name": "Palmer Cadden",
+        "email": "pcadden15@howstuffworks.com",
+        "url": "skype.com/ac/est/lacinia.js"
+    }
+},
+{
+    "model": "my_app.publisher",
+    "pk": 43,
+    "fields": {
+        "name": "Almeda Cantor",
+        "email": "acantor16@apple.com",
+        "url": "si.edu/ut/nulla/sed/accumsan/felis/ut/at.xml"
+    }
+},
+{
+    "model": "my_app.publisher",
+    "pk": 44,
+    "fields": {
+        "name": "Fredek Bridle",
+        "email": "fbridle17@mayoclinic.com",
+        "url": "google.cn/cubilia/curae/nulla/dapibus/dolor.png"
+    }
+},
+{
+    "model": "my_app.publisher",
+    "pk": 45,
+    "fields": {
+        "name": "Marcille Bowater",
+        "email": "mbowater18@patch.com",
+        "url": "over-blog.com/primis/in/faucibus/orci/luctus/et/ultrices.xml"
+    }
+},
+{
+    "model": "my_app.publisher",
+    "pk": 46,
+    "fields": {
+        "name": "Emiline Grzelewski",
+        "email": "egrzelewski19@youku.com",
+        "url": "psu.edu/proin/leo.html"
+    }
+},
+{
+    "model": "my_app.publisher",
+    "pk": 47,
+    "fields": {
+        "name": "Maia Kippling",
+        "email": "mkippling1a@behance.net",
+        "url": "addthis.com/dui/maecenas/tristique/est/et.png"
+    }
+},
+{
+    "model": "my_app.publisher",
+    "pk": 48,
+    "fields": {
+        "name": "Silvie Gummary",
+        "email": "sgummary1b@theglobeandmail.com",
+        "url": "wordpress.com/eget/orci/vehicula.json"
+    }
+},
+{
+    "model": "my_app.publisher",
+    "pk": 49,
+    "fields": {
+        "name": "Genvieve Drynan",
+        "email": "gdrynan1c@comcast.net",
+        "url": "vkontakte.ru/nec/sem/duis.html"
+    }
+},
+{
+    "model": "my_app.publisher",
+    "pk": 50,
+    "fields": {
+        "name": "Ingmar Fergusson",
+        "email": "ifergusson1d@loc.gov",
+        "url": "youku.com/non/interdum/in.json"
+    }
+},
+{
+    "model": "my_app.publisher",
+    "pk": 51,
+    "fields": {
+        "name": "Chaddy Thurnham",
+        "email": "cthurnham1e@yahoo.co.jp",
+        "url": "ucoz.com/tincidunt/in.jsp"
+    }
+},
+{
+    "model": "my_app.publisher",
+    "pk": 52,
+    "fields": {
+        "name": "Alyda Kettel",
+        "email": "akettel1f@last.fm",
+        "url": "devhub.com/lacus/at/turpis.jpg"
+    }
+},
+{
+    "model": "my_app.publisher",
+    "pk": 53,
+    "fields": {
+        "name": "Muire Nairn",
+        "email": "mnairn1g@gov.uk",
+        "url": "baidu.com/massa/volutpat/convallis/morbi.jsp"
+    }
+},
+{
+    "model": "my_app.publisher",
+    "pk": 54,
+    "fields": {
+        "name": "Eduardo Teek",
+        "email": "eteek1h@bizjournals.com",
+        "url": "admin.ch/nulla/quisque/arcu/libero.js"
+    }
+},
+{
+    "model": "my_app.publisher",
+    "pk": 55,
+    "fields": {
+        "name": "Clotilda Pensom",
+        "email": "cpensom1i@paginegialle.it",
+        "url": "ucoz.com/diam/in/magna.html"
+    }
+},
+{
+    "model": "my_app.publisher",
+    "pk": 56,
+    "fields": {
+        "name": "Isacco McAlroy",
+        "email": "imcalroy1j@umich.edu",
+        "url": "narod.ru/condimentum.xml"
+    }
+},
+{
+    "model": "my_app.publisher",
+    "pk": 57,
+    "fields": {
+        "name": "Ronnie Lineker",
+        "email": "rlineker1k@chron.com",
+        "url": "disqus.com/hac/habitasse/platea/dictumst/aliquam.jsp"
+    }
+},
+{
+    "model": "my_app.publisher",
+    "pk": 58,
+    "fields": {
+        "name": "Cinderella Lavallie",
+        "email": "clavallie1l@addthis.com",
+        "url": "japanpost.jp/pede/posuere/nonummy.jpg"
+    }
+},
+{
+    "model": "my_app.publisher",
+    "pk": 59,
+    "fields": {
+        "name": "Shauna Penniell",
+        "email": "spenniell1m@cnet.com",
+        "url": "youtu.be/leo/odio/porttitor.xml"
+    }
+},
+{
+    "model": "my_app.publisher",
+    "pk": 60,
+    "fields": {
+        "name": "Olia Blood",
+        "email": "oblood1n@independent.co.uk",
+        "url": "nsw.gov.au/dignissim/vestibulum/vestibulum/ante.js"
+    }
+},
+{
+    "model": "my_app.publisher",
+    "pk": 61,
+    "fields": {
+        "name": "Joscelin Checci",
+        "email": "jchecci1o@about.com",
+        "url": "prnewswire.com/amet/eros.html"
+    }
+},
+{
+    "model": "my_app.publisher",
+    "pk": 62,
+    "fields": {
+        "name": "Elmo Brimley",
+        "email": "ebrimley1p@pbs.org",
+        "url": "netvibes.com/et/magnis/dis/parturient/montes.aspx"
+    }
+},
+{
+    "model": "my_app.publisher",
+    "pk": 63,
+    "fields": {
+        "name": "Allen Mosley",
+        "email": "amosley1q@seattletimes.com",
+        "url": "auda.org.au/habitasse/platea/dictumst.jsp"
+    }
+},
+{
+    "model": "my_app.publisher",
+    "pk": 64,
+    "fields": {
+        "name": "Elwood Falkous",
+        "email": "efalkous1r@yelp.com",
+        "url": "bbb.org/nullam/molestie/nibh.jpg"
+    }
+},
+{
+    "model": "my_app.publisher",
+    "pk": 65,
+    "fields": {
+        "name": "Nike Chippin",
+        "email": "nchippin1s@bizjournals.com",
+        "url": "liveinternet.ru/a/libero/nam/dui.jpg"
+    }
+},
+{
+    "model": "my_app.publisher",
+    "pk": 66,
+    "fields": {
+        "name": "Margi Peele",
+        "email": "mpeele1t@imgur.com",
+        "url": "tumblr.com/congue/etiam/justo.xml"
+    }
+},
+{
+    "model": "my_app.publisher",
+    "pk": 67,
+    "fields": {
+        "name": "Reidar Scamerdine",
+        "email": "rscamerdine1u@usnews.com",
+        "url": "i2i.jp/mattis/odio/donec.png"
+    }
+},
+{
+    "model": "my_app.publisher",
+    "pk": 68,
+    "fields": {
+        "name": "Pavlov Degoey",
+        "email": "pdegoey1v@woothemes.com",
+        "url": "wix.com/turpis/elementum/ligula/vehicula/consequat/morbi/a.jpg"
+    }
+},
+{
+    "model": "my_app.publisher",
+    "pk": 69,
+    "fields": {
+        "name": "Reginald Wigelsworth",
+        "email": "rwigelsworth1w@irs.gov",
+        "url": "webnode.com/vestibulum/velit/id/pretium/iaculis/diam/erat.jpg"
+    }
+},
+{
+    "model": "my_app.publisher",
+    "pk": 70,
+    "fields": {
+        "name": "Tish Helversen",
+        "email": "thelversen1x@usgs.gov",
+        "url": "indiatimes.com/ante/ipsum.html"
+    }
+},
+{
+    "model": "my_app.publisher",
+    "pk": 71,
+    "fields": {
+        "name": "Townsend Stone Fewings",
+        "email": "tstone1y@washingtonpost.com",
+        "url": "indiatimes.com/vestibulum/rutrum.jsp"
+    }
+},
+{
+    "model": "my_app.publisher",
+    "pk": 72,
+    "fields": {
+        "name": "Murielle Borthe",
+        "email": "mborthe1z@europa.eu",
+        "url": "e-recht24.de/volutpat.html"
+    }
+},
+{
+    "model": "my_app.publisher",
+    "pk": 73,
+    "fields": {
+        "name": "Alla Elijahu",
+        "email": "aelijahu20@linkedin.com",
+        "url": "house.gov/condimentum.html"
+    }
+},
+{
+    "model": "my_app.publisher",
+    "pk": 74,
+    "fields": {
+        "name": "Jaine Eddy",
+        "email": "jeddy21@engadget.com",
+        "url": "utexas.edu/lorem/vitae/mattis/nibh/ligula/nec.json"
+    }
+},
+{
+    "model": "my_app.publisher",
+    "pk": 75,
+    "fields": {
+        "name": "Corella Gerardot",
+        "email": "cgerardot22@flavors.me",
+        "url": "com.com/feugiat/non/pretium/quis.jsp"
+    }
+},
+{
+    "model": "my_app.publisher",
+    "pk": 76,
+    "fields": {
+        "name": "Ewart Verchambre",
+        "email": "everchambre23@discovery.com",
+        "url": "umich.edu/tortor/risus/dapibus/augue/vel/accumsan.jpg"
+    }
+},
+{
+    "model": "my_app.publisher",
+    "pk": 77,
+    "fields": {
+        "name": "Wylma Kield",
+        "email": "wkield24@princeton.edu",
+        "url": "ucla.edu/pellentesque/volutpat/dui/maecenas/tristique.jpg"
+    }
+},
+{
+    "model": "my_app.publisher",
+    "pk": 78,
+    "fields": {
+        "name": "Thadeus Stryde",
+        "email": "tstryde25@dropbox.com",
+        "url": "ezinearticles.com/quis/orci/eget/orci/vehicula/condimentum.png"
+    }
+},
+{
+    "model": "my_app.publisher",
+    "pk": 79,
+    "fields": {
+        "name": "Ignacius Bligh",
+        "email": "ibligh26@arizona.edu",
+        "url": "webeden.co.uk/augue/luctus/tincidunt/nulla.png"
+    }
+},
+{
+    "model": "my_app.publisher",
+    "pk": 80,
+    "fields": {
+        "name": "Bryna Dalgarnocht",
+        "email": "bdalgarnocht27@friendfeed.com",
+        "url": "msu.edu/lorem/ipsum/dolor/sit/amet.aspx"
+    }
+},
+{
+    "model": "my_app.publisher",
+    "pk": 81,
+    "fields": {
+        "name": "Neil Szanto",
+        "email": "nszanto28@reuters.com",
+        "url": "hao123.com/aliquam/augue/quam/sollicitudin/vitae/consectetuer/eget.jpg"
+    }
+},
+{
+    "model": "my_app.publisher",
+    "pk": 82,
+    "fields": {
+        "name": "Kailey Nolan",
+        "email": "knolan29@51.la",
+        "url": "networksolutions.com/amet/nunc/viverra/dapibus/nulla/suscipit.js"
+    }
+},
+{
+    "model": "my_app.publisher",
+    "pk": 83,
+    "fields": {
+        "name": "Issy McMillian",
+        "email": "imcmillian2a@theglobeandmail.com",
+        "url": "livejournal.com/mauris/laoreet/ut.xml"
+    }
+},
+{
+    "model": "my_app.publisher",
+    "pk": 84,
+    "fields": {
+        "name": "Bucky Doggerell",
+        "email": "bdoggerell2b@ning.com",
+        "url": "archive.org/ultrices/posuere/cubilia/curae/nulla.jsp"
+    }
+},
+{
+    "model": "my_app.publisher",
+    "pk": 85,
+    "fields": {
+        "name": "Fania Surmeyer",
+        "email": "fsurmeyer2c@purevolume.com",
+        "url": "apache.org/tortor/duis/mattis/egestas.png"
+    }
+},
+{
+    "model": "my_app.publisher",
+    "pk": 86,
+    "fields": {
+        "name": "Elsy Rosendorf",
+        "email": "erosendorf2d@home.pl",
+        "url": "linkedin.com/in/hac/habitasse/platea/dictumst/aliquam/augue.aspx"
+    }
+},
+{
+    "model": "my_app.publisher",
+    "pk": 87,
+    "fields": {
+        "name": "Dalston Mousley",
+        "email": "dmousley2e@alexa.com",
+        "url": "gmpg.org/non/mattis/pulvinar/nulla/pede.json"
+    }
+},
+{
+    "model": "my_app.publisher",
+    "pk": 88,
+    "fields": {
+        "name": "Rose Dubble",
+        "email": "rdubble2f@cnbc.com",
+        "url": "stanford.edu/nulla/tellus.png"
+    }
+},
+{
+    "model": "my_app.publisher",
+    "pk": 89,
+    "fields": {
+        "name": "Jemimah Pactat",
+        "email": "jpactat2g@marketwatch.com",
+        "url": "sun.com/eu.json"
+    }
+},
+{
+    "model": "my_app.publisher",
+    "pk": 90,
+    "fields": {
+        "name": "Stefan Ondra",
+        "email": "sondra2h@ustream.tv",
+        "url": "psu.edu/mollis/molestie/lorem/quisque/ut/erat/curabitur.html"
+    }
+},
+{
+    "model": "my_app.publisher",
+    "pk": 91,
+    "fields": {
+        "name": "Wallis Hunton",
+        "email": "whunton2i@wired.com",
+        "url": "google.de/ut.js"
+    }
+},
+{
+    "model": "my_app.publisher",
+    "pk": 92,
+    "fields": {
+        "name": "Franklyn Sutherden",
+        "email": "fsutherden2j@printfriendly.com",
+        "url": "altervista.org/lobortis/sapien/sapien.aspx"
+    }
+},
+{
+    "model": "my_app.publisher",
+    "pk": 93,
+    "fields": {
+        "name": "Graig Brick",
+        "email": "gbrick2k@auda.org.au",
+        "url": "barnesandnoble.com/non/lectus/aliquam.jpg"
+    }
+},
+{
+    "model": "my_app.publisher",
+    "pk": 94,
+    "fields": {
+        "name": "Ivy Blakden",
+        "email": "iblakden2l@360.cn",
+        "url": "com.com/placerat.json"
+    }
+},
+{
+    "model": "my_app.publisher",
+    "pk": 95,
+    "fields": {
+        "name": "Gusty Hatch",
+        "email": "ghatch2m@nsw.gov.au",
+        "url": "surveymonkey.com/ligula.aspx"
+    }
+},
+{
+    "model": "my_app.publisher",
+    "pk": 96,
+    "fields": {
+        "name": "Nicolais Crittal",
+        "email": "ncrittal2n@51.la",
+        "url": "tumblr.com/praesent/blandit/nam/nulla/integer/pede.aspx"
+    }
+},
+{
+    "model": "my_app.publisher",
+    "pk": 97,
+    "fields": {
+        "name": "Sanders Cohan",
+        "email": "scohan2o@wikia.com",
+        "url": "photobucket.com/sed/accumsan/felis.aspx"
+    }
+},
+{
+    "model": "my_app.publisher",
+    "pk": 98,
+    "fields": {
+        "name": "Rafaelita Batkin",
+        "email": "rbatkin2p@lulu.com",
+        "url": "indiatimes.com/tincidunt.aspx"
+    }
+},
+{
+    "model": "my_app.publisher",
+    "pk": 99,
+    "fields": {
+        "name": "Edmund Parley",
+        "email": "eparley2q@nymag.com",
+        "url": "ft.com/leo/rhoncus/sed/vestibulum/sit.json"
+    }
+},
+{
+    "model": "my_app.publisher",
+    "pk": 100,
+    "fields": {
+        "name": "Leia Paine",
+        "email": "lpaine2r@howstuffworks.com",
+        "url": "studiopress.com/maecenas/rhoncus/aliquam/lacus/morbi/quis/tortor.aspx"
+    }
+}
+]
